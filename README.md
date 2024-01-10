@@ -1,4 +1,4 @@
-# FiveM PLAYER INFO (STANDALONE)
+# FiveM PED INFO (STANDALONE)
 
 ## A script made for the purpose of helping development
 
